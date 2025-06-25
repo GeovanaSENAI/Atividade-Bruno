@@ -1,0 +1,9 @@
+# exibir_precos.................|✅|
+# exibir_horarios...............|✅|
+# cadastro_pet..................|✅|
+# cadastro_dono.................|✅|
+# expecificacoes_atendimento....|✅|
+# consultar_cadastros...........|✅|
+# buscar_cadastro...............|✅|
+# marcar_realizada..............|✅|
+# exibir_pagina_inicial.........|✅|
